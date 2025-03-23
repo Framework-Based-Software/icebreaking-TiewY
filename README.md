@@ -24,4 +24,4 @@ Yes, so these are what I do to recharge my energy 😎
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [![GitHub][Github.com]](https://github.com/TiewY)
+You can view my personalized GitHub profile [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/TiewY)
