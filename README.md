@@ -6,7 +6,6 @@ Currently, I'm pursuing my Master's in Software Engineering (Software Technology
 <br>
 I hope to gain deeper insights into software design, and collaborate with more like-minded developers.
 
----
 ## About me
 MBTI: ENFJ🔥
 
@@ -23,24 +22,6 @@ Yes, so these are what I do to recharge my energy 😎
 
 <img src="./profile.jpeg" width="30%">
 
----
-
-<h3 align="left">Languages and Tools</h3>
-
-<center>
-![Python][Python.com]
-![Java][Java.com]
-![MySQL][MySQL.com]
-![DB2][DB2.com]
-![SpringBoot][SprintBoot.com]
-</center>
-
 ## GitHub Profile
 
 You can view my personalized GitHub profile [![GitHub][Github.com]](https://github.com/TiewY)
-
-[Java.com]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-[Python.com]:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[MySQL.com]:https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[DB2.com]:https://img.shields.io/badge/IBMDB2-008000?logo=IBMDB2&logoColor=fff&style=for-the-badge
-[SpringBoot.com]:https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
